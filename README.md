@@ -1,6 +1,7 @@
 <div align="center">
   <img src="research-banner.png.png" width="100%">
 </div>
+
 # Hi, I'm Sinchana Joshi!
 
 **Aspiring Physician-Scientist Interested in Computational Biology and Translational Applications**
